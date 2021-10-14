@@ -1,5 +1,0 @@
-db.json
-*.log
-.deploy*/
-.deploy_git
-.idea/*
