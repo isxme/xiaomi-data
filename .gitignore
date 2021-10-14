@@ -1,0 +1,7 @@
+*.log
+.deploy*/
+.deploy_git
+.idea/*
+*.imi
+out/
+.idea/
